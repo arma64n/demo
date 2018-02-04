@@ -299,56 +299,6 @@
     "pages": 104,
     "title": "Medea",
     "year": -431
-  },
-  {
-    "author": "William Faulkner",
-    "country": "United States",
-    "imageLink": "images/absalom-absalom.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Absalom,_Absalom!\n",
-    "pages": 313,
-    "title": "Absalom, Absalom!",
-    "year": 1936
-  },
-  {
-    "author": "William Faulkner",
-    "country": "United States",
-    "imageLink": "images/the-sound-and-the-fury.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury\n",
-    "pages": 326,
-    "title": "The Sound and the Fury",
-    "year": 1929
-  },
-  {
-    "author": "Gustave Flaubert",
-    "country": "France",
-    "imageLink": "images/madame-bovary.jpg",
-    "language": "French",
-    "link": "https://en.wikipedia.org/wiki/Madame_Bovary\n",
-    "pages": 528,
-    "title": "Madame Bovary",
-    "year": 1857
-  },
-  {
-    "author": "Gustave Flaubert",
-    "country": "France",
-    "imageLink": "images/l-education-sentimentale.jpg",
-    "language": "French",
-    "link": "https://en.wikipedia.org/wiki/Sentimental_Education\n",
-    "pages": 606,
-    "title": "Sentimental Education",
-    "year": 1869
-  },
-  {
-    "author": "Federico Garc\u00eda Lorca",
-    "country": "Spain",
-    "imageLink": "images/gypsy-ballads.jpg",
-    "language": "Spanish",
-    "link": "https://en.wikipedia.org/wiki/Gypsy_Ballads\n",
-    "pages": 218,
-    "title": "Gypsy Ballads",
-    "year": 1928
   }
   ]
 }
