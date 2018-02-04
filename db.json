@@ -1,13 +1,8 @@
 {
   "books": [
-        {isbn: '9789814747547', title: 'Travails Of A Trailing Spouse', publisher: 'Straits Times Press', year: '2002', pages: '214', illustrated: false, author: 'Stephanie Suga Chen'},
-        {isbn: '9781786495259', title: 'Call Me By Your Name', publisher: 'Atlantic Books', year: '2014', pages: '124', illustrated: true, author: 'André Aciman'},
-        {isbn: '9781449489892', title: 'Sea Of Strangers', publisher: 'Andrews McMeel Pub', year: '2006', pages: '321', illustrated: true, author: 'Lang Leav'},
-        {isbn: '9780804171588', title: 'Crazy Rich Asians', publisher: 'Anchor', year: '2016', pages: '321', illustrated: false, author: 'Kevin Kwan'}
+        {"isbn": "9789814747547", "title": "Travails Of A Trailing Spouse", "publisher": "Straits Times Press", "year": "2002", "pages": "214", "illustrated": false, "author": "Stephanie Suga Chen"},
+        {"isbn": "9781786495259", "title": "Call Me By Your Name", "publisher": "Atlantic Books", "year": "2014", "pages": "124", "illustrated": true, "author": "André Aciman"},
+        {"isbn": "9781449489892", "title": "Sea Of Strangers", "publisher": "Andrews McMeel Pub", "year": "2006", "pages": "321", "illustrated": true, "author": "Lang Leav"},
+        {"isbn": "9780804171588", "title": "Crazy Rich Asians", "publisher": "Anchor", "year": "2016", "pages": "321", "illustrated": false, "author": "Kevin Kwan"}
   ]
 }
-
-
-
-      
-        
